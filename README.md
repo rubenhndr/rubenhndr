@@ -2,11 +2,13 @@
 
 ###
 
-<img align="right" height="98" src="https://www.gifcen.com/wp-content/uploads/2022/06/anime-gif-1.gif"  />
+<h2 align="center">I'm Ruben Handira</h2>
 
 ###
 
-<h2 align="left">I'm Ruben Handira</h2>
+<div align="center">
+  <img height="98" src="https://www.gifcen.com/wp-content/uploads/2022/06/anime-gif-1.gif"  />
+</div>
 
 ###
 
