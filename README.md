@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="center">I'm Ruben Handira</h2>
+<h2 align="left">I'm Ruben Handira</h2>
 
 ###
 
