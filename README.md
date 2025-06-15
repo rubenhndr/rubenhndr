@@ -20,7 +20,7 @@
 
 ###
 
-<h4 align="center">Currently Studying at Gunadarma University.<br>Game Developer | UI/UX Designer 💫</h4>
+<h4 align="center">Web Programmer | Game Developer | UI/UX Designer 💫</h4>
 
 ###
 
